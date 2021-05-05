@@ -10,6 +10,8 @@
 Jeu : la conquête de l'espace
 
 Dans ce jeu l'utilisateur se situe dans l'espace son but étant d'éviter les projectiles mais aussi d'éliminer les envahisseurs.
+Le joueur peut se déplacer de droit à gauche (horizontal) pour éviter les aliens, mais aussi pour pouvoir leur tirer dessus. Lorsque l'utilisateur tire sur des aliens il cumule des points (un score) qui est stocké dans une bdd, le but étant de batte son record à chaque tentative de jeu. 
+Les aliens se déplacent (verticalement), si un alien touche le joueur celui-ci se voit perdre la partie.
 
 
 ## Outils
