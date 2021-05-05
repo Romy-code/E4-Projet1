@@ -24,7 +24,7 @@ Dans ce jeu l'utilisateur se situe dans l'espace son but étant d'éviter les pr
 
 
 ## Diagramme UML
-
+!includeurl https://raw.githubusercontent.com/linux-china/plantuml-gist/master/src/main/uml/plantuml_gist.puml
 @startuml
 actor "joueur" as joueur
 actor "alien" as alien
