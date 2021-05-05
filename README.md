@@ -24,21 +24,6 @@ Dans ce jeu l'utilisateur se situe dans l'espace son but étant d'éviter les pr
 
 
 ## Diagramme UML
-!includeurl https://raw.githubusercontent.com/linux-china/plantuml-gist/master/src/main/uml/plantuml_gist.puml
-@startuml
-actor "joueur" as joueur
-actor "alien" as alien
-
-package Jeu{
-usecase "tirer" as tirer
-usecase "bouger droite-gauche" as bouger
-usecase "avancer" as avancer
-}
-
-joueur--> tirer
-alien-->tirer
-joueur--> bouger
-alien-->avancer
-@enduml
+ ![alt text](https://github.com/Romy-code/E4-Projet1/blob/13422786187eac8107a715cbfca00aecf6b709ec/casUtilisationProjet1.png)
 
 ```
