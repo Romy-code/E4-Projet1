@@ -25,7 +25,20 @@ Dans ce jeu l'utilisateur se situe dans l'espace son but étant d'éviter les pr
 
 ## Diagramme UML
 
-```mermaid
-sequenceDiagram
+@startuml
+actor "joueur" as joueur
+actor "alien" as alien
+
+package Jeu{
+usecase "tirer" as tirer
+usecase "bouger droite-gauche" as bouger
+usecase "avancer" as avancer
+}
+
+joueur--> tirer
+alien-->tirer
+joueur--> bouger
+alien-->avancer
+@enduml
 
 ```
