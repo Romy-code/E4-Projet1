@@ -19,9 +19,9 @@ Dans ce jeu l'utilisateur se situe dans l'espace son but étant d'éviter les pr
 > **Note:** Le readme est susceptible de changer au fur et à mesure de l'élaboration de l'application web 
 
 
-## Exemple 
+## Forme 
 
-
+ ![alt text](https://github.com/Romy-code/E4-Projet1/blob/b685ce3e467e0785275ac78ecded48b4eed10b2f/formJeu.PNG)
 
 ## Diagramme UML
  ![alt text](https://github.com/Romy-code/E4-Projet1/blob/13422786187eac8107a715cbfca00aecf6b709ec/casUtilisationProjet1.png)
