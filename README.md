@@ -2,7 +2,7 @@
 
 1. [Présentation](#présentation)
 2. [Outils](#Outils)
-3. [Exemple](#Exemple)
+3. [Forme](Forme)
 4. [Diagramme UML](#DiagrammeUML)
 
 ## Présentation
