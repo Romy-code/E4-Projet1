@@ -1,0 +1,10 @@
+C:\Users\cobil\Documents\BTS\e4\InvasionSpatiale\InvasionSpatiale\bin\Debug\InvasionSpatiale.exe.config
+C:\Users\cobil\Documents\BTS\e4\InvasionSpatiale\InvasionSpatiale\bin\Debug\InvasionSpatiale.exe
+C:\Users\cobil\Documents\BTS\e4\InvasionSpatiale\InvasionSpatiale\bin\Debug\InvasionSpatiale.pdb
+C:\Users\cobil\Documents\BTS\e4\InvasionSpatiale\InvasionSpatiale\obj\Debug\InvasionSpatiale.csprojAssemblyReference.cache
+C:\Users\cobil\Documents\BTS\e4\InvasionSpatiale\InvasionSpatiale\obj\Debug\InvasionSpatiale.Form1.resources
+C:\Users\cobil\Documents\BTS\e4\InvasionSpatiale\InvasionSpatiale\obj\Debug\InvasionSpatiale.Properties.Resources.resources
+C:\Users\cobil\Documents\BTS\e4\InvasionSpatiale\InvasionSpatiale\obj\Debug\InvasionSpatiale.csproj.GenerateResource.cache
+C:\Users\cobil\Documents\BTS\e4\InvasionSpatiale\InvasionSpatiale\obj\Debug\InvasionSpatiale.csproj.CoreCompileInputs.cache
+C:\Users\cobil\Documents\BTS\e4\InvasionSpatiale\InvasionSpatiale\obj\Debug\InvasionSpatiale.exe
+C:\Users\cobil\Documents\BTS\e4\InvasionSpatiale\InvasionSpatiale\obj\Debug\InvasionSpatiale.pdb
