@@ -2,7 +2,7 @@
 
 1. [Présentation](#présentation)
 2. [Outils](#Outils)
-3. [Forme](Forme)
+3. [Forme](#Forme)
 4. [Diagramme UML](#DiagrammeUML)
 
 ## Présentation
@@ -17,8 +17,9 @@ Les aliens se déplacent (verticalement), si un alien touche le joueur celui-ci 
 ## Outils
 ***
 	> C# en complement avec l'interface graphique windowsForms
+	> SQL pour le stockage des score dans la base de donnée
 
-> **Note:** Le readme est susceptible de changer au fur et à mesure de l'élaboration de l'application web 
+> **Note:** Le readme est susceptible de changer au fur et à mesure de l'élaboration du jeu
 
 
 ## Forme 
